@@ -52,4 +52,3 @@ Dev by [Gabriel](https://github.com/gabrielvfonseca).
 2021 / 2022
 
 </div>
-# gabrielfonseca.me
