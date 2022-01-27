@@ -13,7 +13,6 @@ const main = {
     { route: "Gear", path: "/gear" },
     { route: "Changelog", path: "/changelog" },
     { route: "Statistics", path: "/statistics" },
-    { route: "Discusss", path: "/discuss" },
     { route: "404", path: "/404" },
   ],
   online: {
