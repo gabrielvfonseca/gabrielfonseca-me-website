@@ -1,0 +1,41 @@
+/* =================================================================== 
+ *
+ * Personal Software Developer Portfolio.
+ * Path: /styles/fonts.css
+ * Created: 21.12.2021
+ * Dev by Gabriel.
+ * Version 4.0.
+ *
+ * ------------------------------------------------------------------
+ *
+ * FONTS:
+ *  # GT Walsheim Pro
+ *	   ## Bold
+ *	   ## Medium
+ *	   ## Regular
+ * 
+ * =================================================================== */
+
+/* ===================================================================
+ * # GT Walsheim Pro
+ * ------------------------------------------------------------------- */
+@font-face {
+  font-family: "GTWalsheimPro Bold";
+  src: local("GTWalsheimPro-Bold"),
+    url("../../public/fonts/GTWalsheimPro-Bold.woff") format("woff"),
+    url("../../public/fonts//GTWalsheimPro-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GTWalsheimPro Medium";
+  src: local("GTWalsheimPro-Medium"),
+    url("../../public/fonts/GTWalsheimPro-Medium.woff") format("woff"),
+    url("../../public/fonts//GTWalsheimPro-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GTWalsheimPro Regular";
+  src: local("GTWalsheimPro-Regular"),
+    url("../../public/fonts/GTWalsheimPro-Regular.woff") format("woff"),
+    url("../../public/fonts//GTWalsheimPro-Regular.woff2") format("woff2");
+}
