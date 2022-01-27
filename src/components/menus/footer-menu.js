@@ -85,17 +85,6 @@ const FooterMenu = () => {
               {main.menu[4].route}
             </li>
           </Link>
-          <Link href={main.menu[7].path} passHref>
-            <li
-              className={
-                router.pathname === main.menu[7].path
-                  ? "without-underline no-bullet color-blue selectedRoute"
-                  : "without-underline no-bullet route"
-              }
-            >
-              {main.menu[7].route}
-            </li>
-          </Link>
           <Link href={main.menu[5].path} passHref>
             <li
               className={
